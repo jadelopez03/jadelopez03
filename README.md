@@ -31,38 +31,6 @@
 
 ---
 
-### 🩰 Stack & Herramientas
-
-<div align="center">
-
-  <!-- Data & AI -->
-  <img src="https://img.shields.io/badge/Python-f8bbd0?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-f48fb1?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-f8bbd0?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-f48fb1?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-f8bbd0?style=flat-square&logo=postgresql&logoColor=white" />
-
-  <br/>
-
-  <!-- Geo & Topo -->
-  <img src="https://img.shields.io/badge/QGIS-f48fb1?style=flat-square&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS-f8bbd0?style=flat-square&logo=arcgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostGIS-f48fb1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeoPandas-f8bbd0?style=flat-square&logo=python&logoColor=white" />
-
-  <br/>
-
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-f8bbd0?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-f48fb1?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-f8bbd0?style=flat-square&logo=git&logoColor=white" />
-
-</div>
-
----
-
-### 🌷 Métricas de GitHub
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&title_color=f06292&text_color=795548&icon_color=f48fb1&bg_color=fff0f3&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&title_color=f06292&text_color=795548&bg_color=fff0f3&hide_border=true" height="150" />
