@@ -22,6 +22,6 @@
 - 🎓 Graduada en **Ingeniería en Geomática y Topografía**.
 - 🚀 Estudiando el Máster en **Inteligencia Artificial, Data & Cloud** en EDEM.
 - 🗺️ Me apasiona el análisis de datos espaciales, teledetección (GIS/RS) y construir modelos de Machine Learning en la nube.
-- 💭 *Fun fact*: Cuando no estoy entrenando modelos o analizando capas cartográficas, me encontrarás tomando matcha o buscando cafeterías bonitas.
+- 💭 *Fun fact*: Cuando no estoy entrenando modelos o analizando capas cartográficas, me encontrarás tomando chai latte o haciendo paddle surf.
 
 ---
