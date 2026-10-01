@@ -1,7 +1,7 @@
 # jadelopez03
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f8bbd0&height=180&section=header&text=Hii,%20I'm%20Jade%20✨&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f8bbd0&height=180&section=header&text=Holaa,%20Soy%20Jade%20🙃&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" />
 
   <p align="center">
     🌸 <b>Ingeniera Geomática & Topógrafa</b> | <b>MSc AI, Data & Cloud @ EDEM</b> 🌸
